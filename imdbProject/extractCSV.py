@@ -8,6 +8,7 @@ pd.options.display.max_info_columns = 10000
 def read_csv():
     # create dataframe from csv file
     df = pd.read_csv('../docs/imdb_data.csv')
+    df["id"] = df.index + 1
     return df
 
 
