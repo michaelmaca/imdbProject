@@ -1,25 +1,25 @@
 # Python ETL Project
 ========================
+## Description
 
-
-
-`github repo <https://github.com/michaelmaca/imdbProjext>`_.
+[github repo](https://github.com/michaelmaca/imdbProjext)
 
 ---------------
 ## TODO
 
-Extract films from ``imdb_data.csv``
+1. Extract films from ``imdb_data.csv``
 
-Create incomplete_cleaned.csv containing incomplete cleaned records
+2. Clean all records
 
-create cleaned_imdb_data.csv containing complete cleaned data
+3. Create `incomplete_cleaned.csv` containing incomplete cleaned records
 
-Create Functions to return films based on the following inputs:
-	1. return a film based on a title
-	
-	2. return a film based on its imdb score with operators (<,>,=)
-	
-	3. return a film based on its year with operators (<,>,=)
+4. create `cleaned_imdb_data.csv` containing complete cleaned data
 
-RESTful API
+5. Create Functions to return films based on the following inputs:
+
+	* return a film based on a title
+	* return a film based on its imdb score with operators (<,>,=)
+	* return a film based on its year with operators (<,>,=)
+
+6. RESTful API
 
