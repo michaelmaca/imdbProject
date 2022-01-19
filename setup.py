@@ -17,7 +17,7 @@ setup(
     long_description=readme,
     author='Michael McArthur',
     author_email='michael.mcarthur94@hotmail.co.uk',
-    url='https://github.com/michaelmaca/imdbProjext',
+    url='https://github.com/michaelmaca/imdbProject',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )

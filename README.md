@@ -1,5 +1,5 @@
 # Python ETL Project
-========================
+
 ## Description
 
 [github repo](https://github.com/michaelmaca/imdbProjext)
@@ -7,11 +7,11 @@
 ---------------
 ## TODO
 
-1. Extract films from ``imdb_data.csv``
+1. Extract films from `imdb_data.csv`
 
 2. Clean all records
 
-3. Create `incomplete_cleaned.csv` containing incomplete cleaned records
+3. Create `part_cleaned_imdb_data.csv` containing incomplete cleaned records
 
 4. create `cleaned_imdb_data.csv` containing complete cleaned data
 
