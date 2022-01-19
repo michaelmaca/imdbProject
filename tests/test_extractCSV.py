@@ -1,4 +1,4 @@
-from .context import extractCSV
+from context import extractCSV
 
 # rows in full data
 print(len(extractCSV.read_csv().index))
