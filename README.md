@@ -8,23 +8,25 @@
 ---------------
 ## TODO
 
-1. Extract films from `imdb_data.csv`
+<del>1. Extract films from `imdb_data.csv`</del>
 
-2. Clean records
+<del>2. Clean records</del>
 
-3. Create `cleaned_imdb_data.csv` containing complete and cleaned records
+<del>3. Create `cleaned_imdb_data.csv` containing complete and cleaned records</del>
 
-4. Create `part_data.csv` containing incomplete records
+<del>4. Create `part_data.csv` containing incomplete records</del>
 
-5. Create `non_ascii_complete_data.csv` containing complete records with non ascii characters
+<del>5. Create `non_ascii_complete_data.csv` containing complete records with non ascii characters</del>
 
-6. Create `non_ascii_part_data.csv` containing partial records with non ascii characters
+<del>6. Create `non_ascii_part_data.csv` containing partial records with non ascii characters</del>
 
-7. Create Functions to return films based on the following inputs:
+<del>7. Create Functions to return films based on the following inputs:</del>
 
-    * return a film based on a title
-    * return a film based on its imdb score with operators (<,>,=)
-    * return a film based on its year with operators (<,>,=)
+    * return a film from a title
+    * return a film from its imdb score with operators (<,>,=)
+    * return a film from its year with operators (<,>,=)
+    * return a film from its genre
 
-8. RESTful API
+8. Testing
 
+9. RESTful API
