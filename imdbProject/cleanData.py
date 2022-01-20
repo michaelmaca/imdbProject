@@ -1,4 +1,4 @@
-import extractSortCSV
+from imdbProject import extractSortCSV
 
 
 def change_data_type():

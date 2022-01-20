@@ -4,7 +4,7 @@ import pandas as pd
 pd.options.display.width = 0
 pd.options.display.max_rows = 10000
 pd.options.display.max_info_columns = 10000
-CSVFILE = '../docs/imdb_data.csv'
+CSVFILE = 'docs/imdb_data.csv'
 
 
 def read_csv():
